@@ -1,5 +1,5 @@
 <<<<<<< HEAD
 2k tma
 =======
-2k tma
+1rak tma
 >>>>>>> t1
